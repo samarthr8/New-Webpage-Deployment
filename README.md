@@ -1,8 +1,6 @@
 # New-Webpage-Deployment
 <p> This repository contains code that will automate testing and deployment of a webpage. </p>
-<br>
 <p>Steps</p>
-<br>
 <p>
 Step1: Push the website code to github repository.
 <br>
